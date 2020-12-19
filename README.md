@@ -1,2 +1,2 @@
-# data_science_proj
-course project
+# Image classifier
+Intro to ai: image classifier project
